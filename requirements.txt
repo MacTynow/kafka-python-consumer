@@ -1,0 +1,4 @@
+pykafka
+kafka
+boto
+python-snappy
